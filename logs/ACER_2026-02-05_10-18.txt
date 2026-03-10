@@ -1,0 +1,2 @@
+[2026-02-05 10:18:59.720469] Aplicação iniciada
+[2026-02-05 10:19:09.901724] Executando: dism /online /export-driver /destination:"C:\Users\ACER\Documents\DriverTool\DriverTool_Backups\ACER_2026-02-05_10-18"
